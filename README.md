@@ -146,70 +146,18 @@ const gabriel = {
 
 ---
 
-## 💼 Experiência & Projetos
+## 💼 Experiência
 
 ### 🚀 Desenvolvedor Full Stack & Empreendedor | 2024 - Presente
 
 Desenvolvimento de múltiplas soluções SaaS e plataformas web, desde a concepção até o deploy em produção. Experiência em arquitetura de software, integração de APIs, automação e gestão de projetos completos.
-
-#### Principais Projetos Desenvolvidos:
-
-**🤖 PrimeTech - Plataforma SaaS de IA para Vendas B2B**
-- Desenvolvimento de sistema completo de otimização de vendas para o mercado industrial brasileiro
-- Integração de IA para análise e automação de processos comerciais
-- Arquitetura escalável com foco em performance e resultados mensuráveis
-- **Stack:** TypeScript, React, Next.js, Python, FastAPI
-
-**🧊 PrimeTech3D - Geração de Modelos 3D com IA**
-- Plataforma web para geração de modelos 3D a partir de fotos ou prompts de texto
-- Integração direta com World Labs API
-- Visualização 3D interativa com Three.js e React Three Fiber
-- Sistema de histórico e download de modelos
-- **Stack:** Next.js 16, React 19, TypeScript, Three.js, Tailwind CSS
-
-**🧠 Neurociência TRIBE v2 - Análise de Conteúdo para Marketing**
-- Sistema SaaS de análise neurocientífica aplicada ao marketing digital
-- Módulos avançados de análise de texto, imagem, áudio e vídeo
-- Dashboard interativo com métricas de atenção e persuasão
-- Sistema de autenticação JWT e gestão de usuários
-- **Stack:** FastAPI, React, Supabase, Python, PostgreSQL
-
-**🎨 TechPrimeFull - Plataforma SaaS Completa**
-- Desenvolvimento de plataforma SaaS full-stack com múltiplos módulos
-- Arquitetura escalável e modular
-- Sistema de autenticação e autorização
-- **Stack:** TypeScript, React, Node.js
-
-**⚙️ PrimeTech Admin - Painel Administrativo**
-- Dashboard administrativo para gestão de múltiplas plataformas
-- Interface intuitiva com Vue.js
-- Gerenciamento de usuários, permissões e configurações
-- **Stack:** Vue.js, TypeScript
-
-**🤖 Agente - Sistema de Automação Inteligente**
-- Desenvolvimento de agente inteligente para automação de processos
-- Integração com múltiplas APIs e serviços
-- Processamento assíncrono e filas de tarefas
-- **Stack:** JavaScript, Node.js
-
-**🎯 Fabi - Sistema de Gestão**
-- Plataforma web para gestão e organização
-- Interface responsiva e moderna
-- Sistema de dados estruturado
-- **Stack:** HTML, CSS, JavaScript
-
-**✈️ GFC Travel - Plataforma de Gestão de Viagens**
-- Sistema completo para gestão de viagens e motoristas
-- Dashboard financeiro e controle de corridas
-- Calculadora de rentabilidade
-- **Stack:** TypeScript, React, FastAPI
 
 #### Competências Desenvolvidas:
 
 - ✅ **Arquitetura de Software:** Clean Architecture, Microservices, SaaS
 - ✅ **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS
 - ✅ **Backend:** FastAPI, Node.js, Python, APIs RESTful
-- ✅ **3D & IA:** Three.js, React Three Fiber, World Labs API
+- ✅ **3D & IA:** Three.js, React Three Fiber, World Labs API, Integração de IA
 - ✅ **Database:** PostgreSQL, Supabase, SQLite
 - ✅ **DevOps:** Git, Vercel, Deploy em produção
 - ✅ **Gestão:** Planejamento, execução e entrega de projetos completos
