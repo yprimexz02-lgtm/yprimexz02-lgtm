@@ -1,0 +1,183 @@
+# 👋 Olá, eu sou Gabriel!
+
+<div align="center">
+  
+### 🚀 Desenvolvedor Full Stack | TypeScript | React | Next.js | Python
+
+[![GitHub followers](https://img.shields.io/github/followers/yprimexz02-lgtm?style=social)](https://github.com/yprimexz02-lgtm)
+[![GitHub stars](https://img.shields.io/github/stars/yprimexz02-lgtm?style=social)](https://github.com/yprimexz02-lgtm)
+
+</div>
+
+---
+
+## 🎯 Sobre Mim
+
+Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Especializado em desenvolvimento web moderno com foco em performance, arquitetura limpa e experiência do usuário.
+
+- 🔭 Atualmente trabalhando em projetos de **IA e 3D**
+- 🌱 Aprendendo **Three.js** e **World Labs API**
+- 💡 Interessado em **Neurociência aplicada ao Marketing**
+- 🎨 Criando experiências web interativas e imersivas
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database & Cloud
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🎨 [TECHPRIME3D](https://github.com/yprimexz02-lgtm/TECHPRIME3D)
+> Gerador de modelos 3D usando World Labs API
+
+Plataforma web que transforma fotos ou descrições de texto em modelos 3D de alta qualidade usando IA.
+
+**Stack:** Next.js 16 • React 19 • TypeScript • Three.js • Tailwind CSS
+
+**Destaques:**
+- 🎯 Dual input mode (foto ou texto)
+- 🎨 Visualização 3D interativa
+- ⚡ Preview em tempo real
+- 📦 Download de modelos GLB
+
+---
+
+### 🧠 [Neurociência TRIBE v2](https://github.com/yprimexz02-lgtm/Neurociencia-Tribe-V2)
+> Plataforma de análise neurocientífica de conteúdo
+
+Sistema SaaS que aplica princípios de neurociência para analisar e otimizar conteúdo de marketing digital.
+
+**Stack:** FastAPI • React • Supabase • Python
+
+**Destaques:**
+- 🧠 Análise de gatilhos emocionais
+- 📊 Dashboard interativo
+- 🎯 Scores de atenção e persuasão
+- 🔐 Autenticação JWT
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yprimexz02-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yprimexz02-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yprimexz02-lgtm&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Áreas de Expertise
+
+```typescript
+const gabriel = {
+  code: ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
+  frameworks: {
+    frontend: ["Next.js", "React", "Vue.js", "Tailwind CSS"],
+    backend: ["FastAPI", "Node.js"],
+    3d: ["Three.js", "React Three Fiber"]
+  },
+  architecture: ["Clean Architecture", "Microservices", "SaaS", "Serverless"],
+  databases: ["PostgreSQL", "Supabase", "SQLite"],
+  currentFocus: "IA Generativa e Renderização 3D na Web",
+  funFact: "Adoro combinar neurociência com tecnologia! 🧠💻"
+};
+```
+
+---
+
+## 🌟 Destaques Técnicos
+
+- ✅ **Clean Architecture** - Código organizado e escalável
+- ✅ **TypeScript** - Tipagem estática para maior segurança
+- ✅ **Documentação Completa** - READMEs profissionais em todos os projetos
+- ✅ **Testes** - Código testado e confiável
+- ✅ **Performance** - Otimização e boas práticas
+- ✅ **UI/UX** - Interfaces modernas e intuitivas
+
+---
+
+## 📫 Como Me Encontrar
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yprimexz02-lgtm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+</div>
+
+---
+
+## 💼 Experiência
+
+### Projetos Recentes
+
+**🎨 Geração 3D com IA** (2026)
+- Desenvolvimento de plataforma web para geração de modelos 3D
+- Integração com World Labs API
+- Visualização interativa com Three.js
+
+**🧠 Análise Neurocientífica** (2026)
+- Criação de SaaS para análise de conteúdo
+- Backend em FastAPI com Clean Architecture
+- Dashboard interativo em React
+
+---
+
+## 🎯 Objetivos 2026
+
+- [ ] Contribuir para projetos open source
+- [ ] Aprender WebGL avançado
+- [ ] Criar mais projetos com IA
+- [ ] Compartilhar conhecimento através de artigos
+- [ ] Expandir portfólio com projetos 3D
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+### 💡 "Código limpo não é escrito seguindo regras. Você sabe que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava." - Robert C. Martin
+
+---
+
+⭐️ **Se você gostou dos meus projetos, considere dar uma estrela!** ⭐️
+
+![Visitor Count](https://profile-counter.glitch.me/yprimexz02-lgtm/count.svg)
+
+</div>
