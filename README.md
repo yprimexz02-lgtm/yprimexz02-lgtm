@@ -1,11 +1,12 @@
-# 👋 Olá, eu sou Gabriel!
+# Olá, eu sou o Gabriel 👋
 
 <div align="center">
-  
-### 🚀 Desenvolvedor Full Stack | TypeScript | React | Next.js | Python
+
+**Estudante de Engenharia de Software no Ibmec (Belo Horizonte) | Empreendedor | Construtor de Soluções**
 
 [![GitHub followers](https://img.shields.io/github/followers/yprimexz02-lgtm?style=social)](https://github.com/yprimexz02-lgtm)
 [![GitHub stars](https://img.shields.io/github/stars/yprimexz02-lgtm?style=social)](https://github.com/yprimexz02-lgtm)
+[![Location](https://img.shields.io/badge/📍-Belo_Horizonte,_MG-blue?style=flat-square)](https://github.com/yprimexz02-lgtm)
 
 </div>
 
@@ -13,12 +14,20 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Especializado em desenvolvimento web moderno com foco em performance, arquitetura limpa e experiência do usuário.
+Empreendo desde antes da faculdade. Entre a operação de negócios físicos e o desenvolvimento, aprendi na prática uma regra fundamental: **a tecnologia só tem valor quando gera resultado real para o negócio**.
 
-- 🔭 Atualmente trabalhando em projetos de **IA e 3D**
-- 🌱 Aprendendo **Three.js** e **World Labs API**
-- 💡 Interessado em **Neurociência aplicada ao Marketing**
-- 🎨 Criando experiências web interativas e imersivas
+Sou apaixonado por construir soluções. Hoje, meu foco é unir **arquitetura de software** e **Inteligência Artificial** para criar automações, produtos escaláveis e resolver problemas complexos.
+
+### 🚀 No que estou trabalhando
+
+**PrimeTech 🤖**  
+Plataforma SaaS de IA voltada para otimização de vendas B2B no mercado industrial brasileiro.
+
+**Neurociência TRIBE v2 🧠**  
+Análise de conteúdo aplicada ao marketing digital, integrando módulos avançados de texto, imagem, áudio e vídeo.
+
+**PrimeTech3D 🧊**  
+Geração de modelos 3D a partir de fotos ou prompts de texto, com integração direta ao ecossistema do World Labs.
 
 ---
 
@@ -51,10 +60,10 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escalávei
 
 ## 🚀 Projetos em Destaque
 
-### 🎨 [TECHPRIME3D](https://github.com/yprimexz02-lgtm/TECHPRIME3D)
-> Gerador de modelos 3D usando World Labs API
+### 🧊 [PrimeTech3D](https://github.com/yprimexz02-lgtm/TECHPRIME3D)
+> Geração de modelos 3D a partir de fotos ou prompts de texto
 
-Plataforma web que transforma fotos ou descrições de texto em modelos 3D de alta qualidade usando IA.
+Plataforma web com integração direta ao ecossistema do World Labs. Transforma fotos ou descrições de texto em modelos 3D de alta qualidade usando IA.
 
 **Stack:** Next.js 16 • React 19 • TypeScript • Three.js • Tailwind CSS
 
@@ -67,9 +76,9 @@ Plataforma web que transforma fotos ou descrições de texto em modelos 3D de al
 ---
 
 ### 🧠 [Neurociência TRIBE v2](https://github.com/yprimexz02-lgtm/Neurociencia-Tribe-V2)
-> Plataforma de análise neurocientífica de conteúdo
+> Análise de conteúdo aplicada ao marketing digital
 
-Sistema SaaS que aplica princípios de neurociência para analisar e otimizar conteúdo de marketing digital.
+Sistema SaaS que integra módulos avançados de texto, imagem, áudio e vídeo. Aplica princípios de neurociência para analisar e otimizar conteúdo de marketing.
 
 **Stack:** FastAPI • React • Supabase • Python
 
